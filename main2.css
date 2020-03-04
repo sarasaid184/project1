@@ -1,0 +1,68 @@
+a{
+    text-decoration: none;
+    color: white;
+    margin:10px;
+  }
+  .media{
+    float:right;  
+   width: 400px;
+  
+  }
+  
+  
+  
+  
+  .car{
+   
+    width:200px;
+   
+  }
+   
+  .nav{
+    border-top: 1px solid white;
+    margin: 10px;
+  }
+  
+  
+  
+  .big{
+    width:60%;
+    margin: auto;
+   
+  }
+  
+  .container{
+    background-color: gray;
+    width: 1165px;
+  }
+  
+  .banner{ 
+   padding:10px;
+  }
+  
+  .section{
+    
+    padding: 10px;
+    display: inline-block;
+    
+    
+  }
+  .section h1{
+  color: cyan;
+   border-bottom: 1px solid black;
+  
+    
+  }
+  
+  
+   
+    .model{
+      border:5px solid black;
+     
+    }
+    
+    
+ 
+  
+ 
+  
